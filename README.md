@@ -1,4 +1,4 @@
-# Dependency Injection Lifetimes in ASP.NET Core 8 (with Swagger)
+# Dependency Injection Lifetimes in ASP.NET Core 9 (with Swagger)
 
 This project demonstrates the **Dependency Injection (DI) lifetimes** available in ASP.NET Core:
 
